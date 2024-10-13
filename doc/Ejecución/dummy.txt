@@ -1,0 +1,5 @@
+Registro de Cambios
+Registro de Incidencias
+Registro de Decisiones
+Solicitudes de Cambio
+De cada iteración: Sprint backlog, Sprint review y Retrospectiva

@@ -1,0 +1,6 @@
+Enunciado del Alcance
+EDT
+Diccionario de la EDT
+Lista de Hitos
+Cronograma en MSProject.
+Presupuesto en MSProject.

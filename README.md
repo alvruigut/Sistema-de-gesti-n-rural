@@ -1,1 +1,1 @@
-# Sistema-de-gesti-n-rural
+# Sistema-de-gestion-rural
